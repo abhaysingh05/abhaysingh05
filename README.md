@@ -1,6 +1,3 @@
-I am Abhay Singh, currently pursuing a B.Tech. in Chemical Engineering at the Indian Institute of Technology, Kharagpur (IITKGP). I’m passionate about competitive programming and machine learning, and I’m consistently working to deepen my skills in both.<br>
-Beyond that, I have a strong interest in core computer science subjects such as Operating Systems, Data Structures and Algorithms, Computer Networks, and probability-based problem solving.<br>
-I’m actively seeking opportunities in Software Development and Quantitative Research roles. Feel free to connect or reach out if you'd like to collaborate or request my resume.<br>
 My GitHub repositories demonstrate hands-on implementations in Python and C++, covering end-to-end solutions from data simulation to user interfaces and file compression algorithms.<br>
 
 ---
@@ -26,14 +23,6 @@ My GitHub repositories demonstrate hands-on implementations in Python and C++, c
 - CMake build system, unit tests, and command-line interface (`-c`/`-d`)  
 
 [View Repository](https://github.com/abhaysingh05/file-compressor-huffman-coding)
-
----
-
-## Technical Skills
-
-- **Languages:** Python, C++  
-- **Frameworks & Libraries:** Tkinter, mplfinance, matplotlib, STL  
-- **Tools & Practices:** Git, CMake, pytest, data simulation, algorithm visualization  
 
 ---
 
