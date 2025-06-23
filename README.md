@@ -26,6 +26,17 @@ My GitHub repositories demonstrate hands-on implementations in Python and C++, c
 
 ---
 
+**NK Securities Research Hackathon 2025**  
+*Python • Data Imputation • Volatility Modeling*  
+- Ranked 16th out of 2,095 entrants in a national options forecasting challenge hosted by NK Securities  
+- Processed high-frequency NIFTY50 options data and engineered an imputation matrix across 52 IV columns  
+- Tuned ExtraTrees-based IterativeImputer, outperforming XGBoost, interpolation, and PCA-ridge baselines
+- Visualized volatility smiles with matplotlib and validated results with automated MSE checks (final MSE: 0.000001132)  
+
+[View Repository](https://github.com/abhaysingh05/nk-securities-research-hackathon-2025)
+
+---
+
 ## Contact
 
 - **Email:** abhaysingh0948@gmail.com  
