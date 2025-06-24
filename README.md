@@ -1,8 +1,20 @@
-My GitHub repositories demonstrate hands-on implementations in Python and C++, covering end-to-end solutions from data simulation to user interfaces and file compression algorithms.<br>
+My GitHub repositories demonstrate hands-on implementations in Python and C++, covering end-to-end solutions from data imputations to user interfaces and file compression algorithms.<br>
 
 ---
 
 ## Featured Projects
+
+**NK Securities Research Hackathon 2025**  
+*Python • Data Imputation • Volatility Modeling*  
+- Ranked 16th out of 2,095 entrants in a national options forecasting challenge hosted by NK Securities  
+- Processed high-frequency NIFTY50 options data and engineered an imputation matrix across 52 IV columns  
+- Tuned ExtraTrees-based IterativeImputer, outperforming XGBoost, interpolation, and PCA-ridge baselines
+- Visualized volatility smiles with matplotlib and validated results with automated MSE checks (final MSE: 0.000001132)  
+
+[View Repository](https://github.com/abhaysingh05/nk-securities-research-hackathon-2025)
+
+---
+
 
 **Stock Trading Simulator**  
 *Python • Tkinter • mplfinance*  
@@ -23,17 +35,6 @@ My GitHub repositories demonstrate hands-on implementations in Python and C++, c
 - CMake build system, unit tests, and command-line interface (`-c`/`-d`)  
 
 [View Repository](https://github.com/abhaysingh05/file-compressor-huffman-coding)
-
----
-
-**NK Securities Research Hackathon 2025**  
-*Python • Data Imputation • Volatility Modeling*  
-- Ranked 16th out of 2,095 entrants in a national options forecasting challenge hosted by NK Securities  
-- Processed high-frequency NIFTY50 options data and engineered an imputation matrix across 52 IV columns  
-- Tuned ExtraTrees-based IterativeImputer, outperforming XGBoost, interpolation, and PCA-ridge baselines
-- Visualized volatility smiles with matplotlib and validated results with automated MSE checks (final MSE: 0.000001132)  
-
-[View Repository](https://github.com/abhaysingh05/nk-securities-research-hackathon-2025)
 
 ---
 
